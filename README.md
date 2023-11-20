@@ -17,3 +17,6 @@ Next, use tools and resources to help manage your workflow. For example, using v
 
 # 2023-11-19
 - "Keep it simple, stupid!"
+
+# 2023-11-20
+- "Today's programming wisdom is to focus on writing clean, maintainable, and efficient code that adheres to best practices and standards. Always strive to improve your skills and knowledge by staying up-to-date with the latest technologies and techniques. Remember that debugging is a crucial part of the development process, so don't be afraid to use debugging tools and techniques to identify and fix issues in your code. Finally, always document your code thoroughly, so that other developers can understand and build upon your work."
