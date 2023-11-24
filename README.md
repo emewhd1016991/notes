@@ -35,3 +35,6 @@ Next, use tools and resources to help manage your workflow. For example, using v
 3. Attend conferences and workshops: These events are great ways to network with other professionals, learn about new tools and technologies, as well as stay updated with current industry practices. You can also find valuable insights and resources from industry experts.  
 4. Participate in open-source projects: Contributing to open source projects can not only improve your programming skills but also help build your portfolio and network. This can lead to potential job opportunities and exposure to cutting-edge technologies.   
 5. Stay focused on solving real-world problems: When learning new skills or programming, always ask yourself how you can apply them to solve real problems. By staying focused, you' ll be better equipped to adapt to the ever-changing tech landscape.
+
+# 2023-11-24
+- "Keep it simple, stupid!"
