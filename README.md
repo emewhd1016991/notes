@@ -38,3 +38,6 @@ Next, use tools and resources to help manage your workflow. For example, using v
 
 # 2023-11-24
 - "Keep it simple, stupid!"
+
+# 2023-11-25
+- "Keep it simple, stupid!"
