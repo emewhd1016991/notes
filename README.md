@@ -41,3 +41,13 @@ Next, use tools and resources to help manage your workflow. For example, using v
 
 # 2023-11-25
 - "Keep it simple, stupid!"
+
+# 2023-11-26
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help improve your programming skills:
+
+1. Set goals: Determine what you want to achieve with your coding project and break it down into smaller tasks.
+2. Prioritize: Figure out which tasks are most important and focus on them first. You can always come back and work on the smaller, less critical tasks later. 
+3. Plan ahead: Anticipate potential problems and challenges and come up with solutions or workarounds ahead of time. That way, when you run into an issue, you'll be prepared to handle it quickly.  
+4. Stay organized: Use version control systems like Git to keep track of your code and make sure you always have a backup. Organize your project into well-structured directories and files, using good naming conventions. It will make it easier to navigate and maintain your Codebase.   
+5. Learn from others: Read through other people' s code, understand how they approach problems, learn from their mistakes, their successes, the tools they use, etc. By doing this, it will not only improve our coding skills but also help us to become better problem solvers.    
+6. Practice makes perfect: Keep practicing and improving your skills. The more you code the better you will become. Don't be afraid to make mistakes because they are an essential part of the learning process. From each mistake, we can learn something new.
