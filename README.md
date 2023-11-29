@@ -57,3 +57,6 @@ Next, use tools and resources to help manage your workflow. For example, using v
 
 # 2023-11-28
 - "Keep it simple, stupid!"
+
+# 2023-11-29
+- Today's programming wisdom is to to be a lifelong learner, always stay current with the latest technology and programming languages, and to never stop improving your skills. It' s also important to understand the basics of software development, including problem-solving, data structures, algorithms, version control, testing, debugging, documentation, collaboration, communication, time management, project management and more. By embracing these principles, you can become a successful and valued member of any development team.
