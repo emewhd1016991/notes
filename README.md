@@ -60,3 +60,6 @@ Next, use tools and resources to help manage your workflow. For example, using v
 
 # 2023-11-29
 - Today's programming wisdom is to to be a lifelong learner, always stay current with the latest technology and programming languages, and to never stop improving your skills. It' s also important to understand the basics of software development, including problem-solving, data structures, algorithms, version control, testing, debugging, documentation, collaboration, communication, time management, project management and more. By embracing these principles, you can become a successful and valued member of any development team.
+
+# 2023-11-30
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and urgency. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use task management tools and versions control systems to stay organised and track your progress. Remember to take breaks and keep your code clean and well-documented. By following these tips, you will be able to achieve your goals and become a better programmer.
