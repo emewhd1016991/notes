@@ -63,3 +63,9 @@ Next, use tools and resources to help manage your workflow. For example, using v
 
 # 2023-11-30
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and urgency. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use task management tools and versions control systems to stay organised and track your progress. Remember to take breaks and keep your code clean and well-documented. By following these tips, you will be able to achieve your goals and become a better programmer.
+
+# 2023-12-01
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, determine which tasks are the most important and focus on them first. By prioritizing your tasks and focusing on the critical ones, you can ensure that your code is of the highest quality and meets your project' s requirements.
+
+Secondly, planning ahead is essential. Before beginning a new project or tackling a complex problem, take the time to research and understand the best approaches and techniques. Creating a plan with milestones and deadlines can help keep you on track and ensure you complete the project successfully. Planning also includes considering potential roadblocks and challenges, so you are prepared to overcome them. 
+ 最终，保持组织有序是提高编程效率的关键。使用版本控制系统（如Git）来管理代码，确保代码整洁、易于阅读和维护。定期审查代码以识别和修复潜在问题，并使用注释和文档来记录关键信息和代码逻辑。通过保持组织和关注细节，你可以确保你的代码在长期内保持高质量和可维护性。
