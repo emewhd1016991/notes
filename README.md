@@ -129,3 +129,6 @@ Second, always plan your day or week ahead of time. Write down your goals for th
 
 # 2023-12-16
 - Today's programming wisdom is to write code that is simple, readable, and maintainable. Avoid unnecessary complexity and strive for clarity in your logic and syntax. Remember that code is read far more often than it is written, so make it easy for others (and your future self) to understand your intentions. Also, don't forget to test your code thoroughly and handle errors gracefully. Happy coding!
+
+# 2023-12-17
+- "Keep it simple, stupid!"
