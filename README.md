@@ -152,3 +152,9 @@ Remember to take breaks throughout the day to avoid burnout and keep your mind f
 
 Next, use a scheduling tool or plan to allocate time to each task. Allocate time based on their importance and complexity. Make sure to leave some buffer time for unexpected tasks or interruptions. Planning your day or week in this manner will ensure you have enough time allocated to complete all tasks. 
  最终，保持组织。使用版本控制系统，如Git，来管理你的代码。创建清晰的文件夹结构，以便于查找和组织你的文件。定期备份你的工作，以防数据丢失。通过保持组织和遵循这些最佳实践，你将能够更有效地完成你的编程任务。
+
+# 2023-12-23
+- Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This involves staying up-to-date with the latest programming languages, tools, and techniques. By constantly evolving your skillset, you can become a valuable asset to any team or project.
+
+To achieve this, it is essential to develop a growth mindset and embrace challenges. Always be curious and explore new ideas, even if they seem out of reach. Emphasizing the process of learning and growth, rather than the end result, will help you stay motivated and focused. Remember that every mistake is an opportunity to learn and improve. 
+ - 来自NLP
