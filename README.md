@@ -523,3 +523,8 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 
 Second, always plan beforehand. When starting a new project or working on a complex task, create a plan with a timeline and break it down into smaller, manageable steps. Knowing what you need do and when to do it will keep you on track and prevent you from getting lost in the details. 
  -- 来自NLP的机器翻译
+
+# 2024-03-07
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clear, maintainable code first and optimize only when necessary, based on measured performance data. Remember that readability counts, as tomorrow’s maintenance programmer might be you." 
+
+This quote emphasizes the importance of avoiding over-optimization during the initial stages of coding, which can lead to complex and hard-to-maintain code. Instead, concentrate on creating clean, understandable solutions that can be optimized later if and when actual performance metrics dictate the need for improvement.
